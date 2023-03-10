@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A atividade permitiu que fosse explorada a atividade de criação do projeto utilizando, pela primeira vez, o sprinboot.<br><br>Realização do CRUD de algum objeto a escolha do aluno, bem como criação de telas básicas de HTML e autenticação de usuário.</p>
+<p align="left">A atividade permitiu que fosse explorada a atividade de criação do projeto utilizando, pela primeira vez, o Springboot.<br><br>Realização do CRUD de algum objeto a escolha do aluno, bem como criação de telas básicas de HTML e autenticação de usuário.</p>
 
 ###
 
